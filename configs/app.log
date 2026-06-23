@@ -1,0 +1,4 @@
+2025-08-28 17:13:13,085 - root - INFO - info
+2025-08-28 17:13:13,085 - root - WARNING - warning
+2025-08-28 17:13:13,086 - root - ERROR - error
+2025-08-28 17:13:13,086 - root - CRITICAL - critical
